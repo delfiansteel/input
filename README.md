@@ -8,7 +8,7 @@ NIM     : 312110161</p>
 UNIVERSITAS PELITA BANGSA CIKARANG</p>
 
 #### Source Code
-#Tugas Praktikum
+# Tugas Pratikum
 Buat program sederhana yang akan menampilkan daftar nilai
 mahasiswa, dengan ketentuan
 ```python
