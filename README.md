@@ -7,7 +7,6 @@ KELAS   : T1.21.A.1</p>
 NIM     : 312110161</p>
 UNIVERSITAS PELITA BANGSA CIKARANG</p>
 
-#### Source Code
 #### Tugas Pratikum
 Buat program sederhana yang akan menampilkan daftar nilai
 mahasiswa, dengan ketentuan
@@ -21,6 +20,8 @@ Tampilkan Data, Cari Data)
 uts: 35%, uas: 35%)
 
 • Buat flowchart dan penjelasan programnya
+
+#### Source Code
 ```python
 x = {}
 
