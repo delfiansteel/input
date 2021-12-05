@@ -11,6 +11,7 @@ UNIVERSITAS PELITA BANGSA CIKARANG</p>
 #### Tugas Pratikum
 Buat program sederhana yang akan menampilkan daftar nilai
 mahasiswa, dengan ketentuan
+
 • Program dibuat dengan menggunakan Dictionary
 
 • Tampilkan menu pilihan: (Tambah Data, Ubah Data, Hapus Data,
@@ -222,22 +223,22 @@ Apabila kita menginput 'k' maka program akan langsung berhenti.
 ```
 Jika kita menginputkan selain yang ada pada menu (t, u, h, c, l, k) maka kita akan diminta untuk memilih menu yang tersedia.
 ###FLOWCHART
-![flowchart](https://github.com/ariandto/dicti/blob/main/pict/pict7.png)
+![flowchart](https://github.com/delfiansteel/input/blob/main/screenshot/1.png)
 ##Hasil Program
 ##### Tambah Data
-![tambah data](https://github.com/ariandto/dicti/blob/main/pict/pict1.png)
+![tambah data](https://github.com/delfiansteel/input/blob/main/screenshot/2.png)
 
 ##### Ubah Data
-![ubah data](https://github.com/ariandto/dicti/blob/main/pict/pict2.png)
+![ubah data](https://github.com/delfiansteel/input/blob/main/screenshot/3.png)
 
 ##### Melihat perubahan data
-![lihat data](https://github.com/ariandto/dicti/blob/main/pict/pict3.png)
+![lihat data](https://github.com/delfiansteel/input/blob/main/screenshot/4.png)
 
 ##### Mencari data
-![hapus data](https://github.com/ariandto/dicti/blob/main/pict/pict4.png)
+![hapus data](https://github.com/delfiansteel/input/blob/main/screenshot/5.png)
 
 ##### Lihat data lagi
-![lihat](https://github.com/ariandto/dicti/blob/main/pict/pict5.png)
+![lihat](https://github.com/delfiansteel/input/blob/main/screenshot/6.png)
 
 ##### Keluar    
-![keluar](https://github.com/ariandto/dicti/blob/main/pict/pict6.png)
+![keluar](https://github.com/delfiansteel/input/blob/main/screenshot/7.png)
