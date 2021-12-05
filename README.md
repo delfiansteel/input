@@ -1,5 +1,5 @@
 # Praktikum 5
-
+![logo](https://github.com/delfiansteel/input/blob/main/screenshot/Logo.png)
 ### Program Data Mahasiswa
 membuat data mahasiswa menggunakan Dictionary dengan python.</p>
 NAMA    : Delfian Ruly Havatilla</p>
