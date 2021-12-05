@@ -1,4 +1,4 @@
-# Praktikum 5
+# Praktikum 5 Bahasa Pemograman
 ![logo](https://github.com/delfiansteel/input/blob/main/screenshot/Logo.png)
 ### Program Data Mahasiswa
 membuat data mahasiswa menggunakan Dictionary dengan python.</p>
